@@ -1,4 +1,6 @@
-## [텍스트 마이닝] Sentiment Classification
+## [텍스트 마이닝] 감정 분류 
+<img src="https://github.com/user-attachments/assets/854a2d45-4a1b-49b3-9f2e-f93bc2de34de">
+<br>
 
 ### ✏️ Kaggle 경진대회
 https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
